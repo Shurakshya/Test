@@ -12,3 +12,6 @@ For each letter, its ASCII code using the charCodeAt() method of the string is o
 
 ## Get data and save it locally 3A
 
+`dbConnection.js` for Database Connection
+`productsTable.js` for creating products table and inserting data
+`index.js` for fetching data from API 
